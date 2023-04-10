@@ -1,0 +1,65 @@
+[
+    {
+        
+        "id": "1",
+        "name": "American Cheesy Pizza",
+        
+        "img": "http://docs.google.com/uc?export=open&id=19-Q9JSH3ZvC40lOlUttxf4wtPVm9ctIU"
+    },
+    {
+         
+        "id": "2",
+        "name": "Bacon Pizza",
+        
+        "img": "http://docs.google.com/uc?export=open&id=1QB2q13sop1x86CbOf5c5NBY0geWhk2hZ"
+    },
+    {
+         
+        "id": "3",
+        "name": "Double Cheese Pizza",
+        
+        "img": "http://docs.google.com/uc?export=open&id=1ARbwqW_uOLb4eCeWsyCJVZSYUIreXsrD"
+    },
+    {
+         
+        "id": "4",
+        "name": "Italian Cheesy Pizza",
+       
+        "img": "http://docs.google.com/uc?export=open&id=1a5kM2bkvvvG9x12V_KkuZ1HRor2xgU20"
+    },
+    {
+         
+        "id": "5",
+        "name": "Keema Pizza",
+       
+        "img": "http://docs.google.com/uc?export=open&id=12fiRkYTdFZWr3qaczRBUu-c6ciQ1FY2V"
+    },
+    {
+         
+        "id": "6",
+        "name": "Non Veg Pizza",
+        
+        "img": "http://docs.google.com/uc?export=open&id=1RtJQB2pxhHWFGSH2vdOJxgSI4b1vEdTm"
+    },
+    {
+         
+        "id": "7",
+        "name": "Olives Pizza",
+        
+        "img": "http://docs.google.com/uc?export=open&id=1gWKqlaXkO7h-w3--WygpgUPy28a21QHp"
+    },
+    {
+         
+        "id": "8",
+        "name": "Onion Pizza",
+
+        "img": "http://docs.google.com/uc?export=open&id=1hUGxEC95jEwnlXVh08isFuoxivT5-HwB"
+    },
+    {
+        
+        "id": "9",
+        "name": "Oven Pizza",
+        
+        "img": "http://docs.google.com/uc?export=open&id=1u8NjRiICc3J4U9WBgarM7gFvkyTEOtz-"
+    }
+]
